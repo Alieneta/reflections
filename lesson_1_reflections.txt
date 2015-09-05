@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Yes
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see what has changed
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   Because they have to be able to seperate the files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    from the command line you type fc and then the 2 files you are comparing
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    you can always go back to the old one
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    learning javascript
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	you can see the changes you have made in the past, how far you have come and help you remember when and why you made changes
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	pros - you know what impired you to make a change 
+	cons - it is extra work
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	because for many programming systems you have many files that are associated to one project 
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	git log will give you the id's 
+	git diff will show you the differences
+
+How might using version control make you more confident to make changes that could break something?
+
+	you know you always get back to what it was before
